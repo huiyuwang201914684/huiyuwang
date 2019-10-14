@@ -39,7 +39,7 @@ Gaussian mixtures：多个高斯分布的线性叠加能拟合非常复杂的密
 
 
 ### （2）fetch_20newsgroups数据集上
-![2](..\2.png)
+![2](.\2.png)
 
 
 ## 六、    结论
