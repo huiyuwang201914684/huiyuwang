@@ -35,11 +35,11 @@ Gaussian mixtures：多个高斯分布的线性叠加能拟合非常复杂的密
 ## 五、    实验结果与分析
 
 ### （1）load_digits数据集上
-![1](D:\major\课程\data mining\homework1\1)
+![1](...\1.png)
 
 
 ### （2）fetch_20newsgroups数据集上
-![1](D:\major\课程\data mining\homework1\2)
+![1](...\2.png)
 
 
 ## 六、    结论
