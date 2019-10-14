@@ -35,7 +35,7 @@ Gaussian mixtures：多个高斯分布的线性叠加能拟合非常复杂的密
 ## 五、    实验结果与分析
 
 ### （1）load_digits数据集上
-![1](..\1.png)
+![1](https://github.com/huiyuwang201914684/huiyuwang/blob/master/cluster/1.png)
 
 
 ### （2）fetch_20newsgroups数据集上
